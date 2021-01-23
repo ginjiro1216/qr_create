@@ -4,7 +4,6 @@ qr2_names = []
 qr3_names = []
 
 
-
 def qr_create():
 
     def qr1_create():
@@ -58,6 +57,7 @@ def qr_create():
     qr1_create()
     qr2_create()
     qr3_create()
+
 
 if __name__ == '__main__':
     qr_create()
